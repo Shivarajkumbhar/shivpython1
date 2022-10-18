@@ -1,0 +1,5 @@
+shiv=(1,3,24,56,10,13,19,80,67,94,56,90,36,57,100,945)
+print(shiv)
+print(type(shiv))
+print(shiv[4:7])
+print(shiv)
