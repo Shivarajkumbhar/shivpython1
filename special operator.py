@@ -13,3 +13,12 @@ y3='shivaraj'
 print(x3 is not y3)
 print(id(x3))
 print(id(y3))
+
+
+a=(1,2,3,4,5,6,7,8,9)
+print(1 in a)
+print(10 in a)
+
+b=('a','b','c')
+print('d' not in b)
+print('a' not in b)
